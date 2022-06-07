@@ -1,8 +1,4 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhoygorai)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Frame 1 (1)](https://user-images.githubusercontent.com/70913309/172494000-1b2aff2d-02d1-4804-9627-cd4bb10aeedc.png)
 
 
 

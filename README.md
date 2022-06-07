@@ -1,5 +1,6 @@
 ![Frame 1 (1)](https://user-images.githubusercontent.com/70913309/172494000-1b2aff2d-02d1-4804-9627-cd4bb10aeedc.png)
-### Hi there 👋 Abhoy this side
+### Hi there 👋 Its Abhoy
+Competitive Coder | Web Developer | Graphicd Designer
 
 
 

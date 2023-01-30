@@ -2,7 +2,7 @@
 ### Hi there 👋 Its Abhoy
 Competitive Coder | Web Developer | Graphics Designer
 <hr />
-I am a Computer Science Student, I do Competitive Coding on daily basis and also learning Web Developement. My skills are I am good in C++, HTML, CSS. Currently working as a Graphics Designer Intern. 
+I am a Computer Science Student, I am a full stack developer having a good grip in mern stack
 :grinning: <hr />
 
 

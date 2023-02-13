@@ -1,6 +1,6 @@
 ![Frame 1 (1)](https://user-images.githubusercontent.com/70913309/172494000-1b2aff2d-02d1-4804-9627-cd4bb10aeedc.png)
 ### Hi there 👋 Its Abhoy
-Competitive Coder | Web Developer | Graphics Designer
+Competitive Coder | Full Stack Developer
 <hr />
 I am a Computer Science Student, I am a full stack developer having a good grip in mern stack
 :grinning: <hr />

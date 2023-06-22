@@ -5,18 +5,6 @@ Full Stack Developer | DSA
 I am a Computer Science Student, I am a full stack developer having a good grip on MERN stack. Currently brushing up on my skills of problem-solving.
 :grinning: <hr />
 
-Contact me:
-<ul>
-  <li>
-    Email: abhoygorai04@gmail.com
-  </li>
-  <li>
-    LinkedIn: https://www.linkedin.com/in/abhoygorai/
-  </li>
-  <li>
-    Instagram: https://www.instagram.com/abhoygorai
-  </li>
-</ul>
 
 
 

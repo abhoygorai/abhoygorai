@@ -1,8 +1,8 @@
 ![Frame 1 (1)](https://user-images.githubusercontent.com/70913309/172494000-1b2aff2d-02d1-4804-9627-cd4bb10aeedc.png)
 ### Hi there 👋 Its Abhoy
-Competitive Coder | Full Stack Developer
+Full Stack Developer | DSA
 <hr />
-I am a Computer Science Student, I am a full stack developer having a good grip in mern stack
+I am a Computer Science Student, I am a full stack developer having a good grip on mern stack. Currently brushing up my skills of problem-solving.
 :grinning: <hr />
 
 

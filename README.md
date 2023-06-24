@@ -5,6 +5,7 @@ Full Stack Developer | DSA
 I am a Computer Science Student, I am a Full-stack developer having a good grip on the MERN stack, and currently brushing up on my skills of problem-solving.
 :grinning: <hr />
 
+Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 

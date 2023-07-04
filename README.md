@@ -2,7 +2,7 @@
 ### Hi there 👋 Its Abhoy
 Full Stack Developer | DSA
 <hr />
-I am a Computer Science Student, I am a Full-stack developer having a good grip on the MERN stack, and currently brushing up on my skills of problem-solving.
+I am a Computer Science Student, I am a Full-stack developer having expertise in the MERN stack, and currently brushing up on my skills of problem-solving.
 :grinning: <hr />
 
 Tech Stack
